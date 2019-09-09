@@ -1,7 +1,6 @@
 # Snappagram
-App name:  Snappagram 
 
-Definition Statement (Purpose):
+<b>Definition Statement (Purpose):</b>
 	The purpose of Snappagram is to allow its users to quickly search for cities/countries on Google Maps,  browse trending news on New York Times and the latest trending photos on Instagram, and look up artists and their music on iTunes. 
 
 
